@@ -23,7 +23,10 @@ class Experience extends Component {
                   <strong>Robotic Programming</strong>
                 </h6>
                 <p>
-                  Di masa kuliah S1 bergabung dengan komunitas robotika UIN Alauddin Makassar dan telah mengikuti beberapa lomba di tingkat nasional. 
+                •	Participate in Inter-campus and National Robotic Competitions </p>
+                <p>•	Teaching about robotic programming</p>
+                <p>•	Teaching and assisting high school students in robotics competitions
+ 
                 </p>
               </blockquote>
             </div>
@@ -42,7 +45,7 @@ class Experience extends Component {
                   <strong>Praktek Kerja Lapangan</strong>
                 </h6>
                 <p>
-                  Melakukan Praktek Kerja Lapangan selama 3 bulan di Bank Pembangunan Daerah (BPD) Sul-SelBar Makassar di bidang IT. 
+                Conducting Field Work Practices for 3 months at the Regional Development Bank (BPD) of South Sulawesi Makassar in the IT field. 
                 </p>
               </blockquote>
             </div>
@@ -61,7 +64,9 @@ class Experience extends Component {
                   <strong>Software Engineer</strong>
                 </h6>
                 <p>
-                  Di tahun 2020 mulai bekerja di Metrotech Digital Asia sebagai Software Engineer. 
+                •	Development some website government and scholl.</p>
+                <p>•	Form a community to learn together about information technology, especially software development 
+ 
                 </p>
               </blockquote>
             </div>

@@ -12,10 +12,13 @@ class About extends Component {
           <p className="grey-text">
           A bachelor in information engineering. 
           Have experience in building and developing applications and websites. 
-          Passionate about what I do and always learning something new.  
+          Passionate about what I do and always learning something new. 
           Motivation and passion are the keys to achieving what I want. 
-          Now i'm interested in learning to manage finance and invest for my future. 
-          Interested in learning a fundamental and technical analysis to analyze a stock.
+          Web Developer specializing in back end development. 
+          Experienced with all stages of the development cycle for dynamic web projects. 
+          Well-versed in numerous programming languages including C++, HTML5, PHP, JavaScript, CSS, MySQL. 
+          But now interested in learning infrastructure especially DevOps. 
+          I have learned docker, kubernetes, google cloud, azure and jenkins.
           </p>
         </div>
         <div className="card-action">

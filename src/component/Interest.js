@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Icon } from '@iconify/react';
 
 class Profile extends Component {
     render() {
@@ -25,6 +26,10 @@ class Profile extends Component {
 					<span className='card-title activator grey-text text-darken-4'>
 					<i class="small material-icons">adb</i>
 						IOT-Robotic
+					</span>
+					<span className='card-title activator grey-text text-darken-4'>
+					<Icon icon="mdi:cloud" />
+						Cloud Infrastructure
 					</span>
 					
 				</div>

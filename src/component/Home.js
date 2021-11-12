@@ -8,6 +8,7 @@ import Portofolio from '../component/Portfolio';
 import Education from './Education';
 import Interset from './Interest';
 import Footer from './footer';
+import Medsos from './Medsos';
 
 export default class Home extends Component {
     render() {
@@ -19,6 +20,7 @@ export default class Home extends Component {
                         <div className="col s12 m4 l3">
                         <Profile />
                         <Interset />
+                        <Medsos />
                         </div>
                         <div className="col s12 m8 l9">
                             <About />

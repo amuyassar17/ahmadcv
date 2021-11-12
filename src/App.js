@@ -9,6 +9,7 @@ import Skill from './component/Skill';
 import Experience from './component/Experience';
 import Portfolio from './component/Portfolio';
 import Education from './component/Education';
+import Medsos from './component/Medsos';
 import { HashRouter } from 'react-router-dom'
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="/education" component={Education} />
           <Route path="/experience" component={Experience} />
           <Route path="/portofolio" component={Portfolio} />
+          <Route path="/medsos" component={Medsos} />
         </Switch>
       </>
     </HashRouter>

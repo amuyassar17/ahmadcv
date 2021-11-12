@@ -18,16 +18,7 @@ class Education extends Component {
 							</tr>
 						</thead>
 						<tbody>
-							<tr>
-								<td>SMPN 1 Sungguminasa</td>
-								<td>2008</td>
-								<td>2011</td>
-							</tr>
-                            <tr>
-								<td>SMAN 2 Tinggimoncong</td>
-								<td>2011</td>
-								<td>2014</td>
-							</tr>
+							
                             <tr>
 								<td>S1 - UIN Alauddin Makassar</td>
 								<td>2014</td>

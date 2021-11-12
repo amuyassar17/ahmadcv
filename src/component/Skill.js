@@ -68,6 +68,46 @@ class Skill extends Component {
                 ></div>
               </div>
             </div>
+            </div>
+          <div className="row">
+            <div className="col s6">
+              <p>DOCKER</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '60%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p>KUBERNETES</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '40%' }}
+                ></div>
+              </div>
+            </div>
+            </div>
+          <div className="row">
+            <div className="col s6">
+              <p>Google Cloud Platform</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '80%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p>Azure</p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '50%' }}
+                ></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

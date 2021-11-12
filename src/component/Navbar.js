@@ -11,7 +11,7 @@ export default class Navbar extends Component {
 					<div className='container'>
 						<div className='nav-wrapper'>
 							<Link to='/' className='brand-logo'>
-								My CV
+								Curriculum Vitae
 							</Link>
 							<Link to='/' data-target='side-nav' className='sidenav-trigger'>
 								<i className='material-icons'>menu</i>
@@ -35,6 +35,11 @@ export default class Navbar extends Component {
 								<li>
 									<Link to='/education'>
 										<i class='fas fa-graduation-cap'></i> Educations
+									</Link>
+								</li>
+								<li>
+									<Link to='/medsos'>
+										<i class='fas fa-graduation-cap'></i> Medsos
 									</Link>
 								</li>
 								<li>
