@@ -26,6 +26,10 @@ class Profile extends Component {
 					<i class="small material-icons">adb</i>
 						IOT-Robotic
 					</span>
+					<span className='card-title activator grey-text text-darken-4'>
+					<i class="small material-icons">adb</i>
+						Cloud Infrastructure
+					</span>
 					
 				</div>
 				
